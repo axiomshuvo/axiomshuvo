@@ -63,7 +63,7 @@
 </div>
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/9kbifn.jpg"  />
+<img align="right" height="120" src="https://i.imgflip.com/9kbifn.jpg"  />
 
 ###
 
