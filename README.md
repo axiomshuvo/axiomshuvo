@@ -73,6 +73,10 @@
 
 <img src="https://raw.githubusercontent.com/axiomshuvo/axiomshuvo/output/snake.svg" alt="Snake animation" />
 
+### 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=axiomshuvo&theme=radical)
+
 ###
 
 <div align="center">
@@ -81,11 +85,6 @@
 
 ###
 
-### 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=axiomshuvo&theme=radical)
-
-###
 
 <!-- ### Hi there 👋
 I'm Pradipta Sarker and I have 2.5 years of experience in front-end development. As per your requirements, I can develop cross browser support, a responsive website without using any extra CSS framework like Bootstrap. I can work full time and ready to start as soon as you hire me. please check my some work
