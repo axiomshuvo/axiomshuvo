@@ -81,9 +81,9 @@
 
 ###
 
-###
+### 🏆 GitHub Trophies
 
-https://github-profile-trophy.vercel.app/?username=axiomshuvo&theme=radical
+![](https://github-profile-trophy.vercel.app/?username=axiomshuvo&theme=radical)
 
 ###
 
