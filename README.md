@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:axiomshuvo@gmail.com">
+  <a href="mailto:techshuvo@gmail.com">
     <img src="https://img.shields.io/badge/Email-say_hello-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
@@ -80,6 +80,10 @@ I don't just build features — I build **experiences**. Pixel-level precision i
 
 ```yaml
 currently_learning:
+  ai_vibe_coding:
+    - Vibe coding with AI agents (Copilot, Cursor, Claude)
+    - Prompt engineering for faster UI scaffolding
+    - Building agent-assisted dev workflows
   frontend:
     - Advanced animations with Framer Motion & GSAP
     - Web Performance & Core Web Vitals optimization
@@ -243,12 +247,12 @@ currently_learning:
 │  timezone    :  UTC+6  (Dhaka, Bangladesh)              │
 │  remote      :  Yes, strongly preferred 🌍              │
 │  response    :  Usually within 24 hours                 │
-│  contact     :  axiomshuvo@gmail.com                    │
+│  contact     :  techshuvo@gmail.com                     │
 └─────────────────────────────────────────────────────────┘
 ```
 
 <div align="center">
-  <a href="mailto:axiomshuvo@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-axiomshuvo@gmail.com-00D9FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:techshuvo@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-techshuvo@gmail.com-00D9FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/pradiptasarkershuvo/"><img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   &nbsp;
@@ -274,7 +278,7 @@ currently_learning:
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/pradiptasarkershuvo/">LinkedIn</a>
   &nbsp;·&nbsp;
-  <a href="mailto:axiomshuvo@gmail.com">Email</a>
+  <a href="mailto:techshuvo@gmail.com">Email</a>
   <br/><br/>
   <sub>Made with ❤️ by <a href="https://github.com/axiomshuvo">Pradipta Sarker</a> · Dhaka, Bangladesh</sub>
 </div>
