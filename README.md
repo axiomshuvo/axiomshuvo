@@ -53,46 +53,34 @@ I don't just build features — I build **experiences**. Pixel-level precision i
 
 ## ⚡ What I Ship
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img width="48" src="https://skillicons.dev/icons?i=react" /><br/>
-      <b>Web Apps</b><br/>
-      <sub>Performant SPAs & full-stack apps<br/>with React, Next.js & Node.js</sub>
-    </td>
-    <td align="center" width="33%">
-      <img width="48" src="https://skillicons.dev/icons?i=figma" /><br/>
-      <b>UI Systems</b><br/>
-      <sub>Design systems & component libraries<br/>with Tailwind, shadcn/ui & HeroUI</sub>
-    </td>
-    <td align="center" width="33%">
-      <img width="48" src="https://skillicons.dev/icons?i=nodejs" /><br/>
-      <b>APIs & Auth</b><br/>
-      <sub>Secure REST APIs, Better Auth flows,<br/>MongoDB & MySQL data layers</sub>
-    </td>
-  </tr>
-</table>
+```diff
++ [01]  WEB APPS    →  Performant SPAs & full-stack apps · React · Next.js · Node.js
++ [02]  UI SYSTEMS  →  Design systems & component libraries · Tailwind · shadcn/ui · HeroUI
++ [03]  API & AUTH  →  Secure REST APIs · Better Auth · MongoDB & MySQL data layers
+```
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
-**Frontend**
+<div align="center">
 
-<div>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vue,tailwind,html,css&theme=dark&perline=9" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,30&height=38&text=%20%20Frontend%20%20&fontSize=14&fontColor=00D9FF&fontAlignY=55" width="160" />
 
-**Backend & Database**
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vue,tailwind,html,css&theme=dark&perline=8" />
 
-<div>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,python,php&theme=dark&perline=9" />
-</div>
+<br/>
 
-**Tools & DevOps**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,30&height=38&text=%20%20Backend+%26+Database%20%20&fontSize=14&fontColor=00D9FF&fontAlignY=55" width="220" />
 
-<div>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,linux&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,python,php&theme=dark&perline=8" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,30&height=38&text=%20%20Tools+%26+DevOps%20%20&fontSize=14&fontColor=00D9FF&fontAlignY=55" width="190" />
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,linux&theme=dark&perline=8" />
+
 </div>
 
 ---
@@ -100,17 +88,17 @@ I don't just build features — I build **experiences**. Pixel-level precision i
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=axiomshuvo&theme=tokyonight" height="165" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=axiomshuvo&theme=tokyonight&hide_border=true&border_radius=8" height="165" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=axiomshuvo&theme=tokyonight" height="165" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=axiomshuvo&theme=tokyonight" height="160" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=axiomshuvo&theme=tokyonight&hide_border=true&border_radius=8" height="160" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=axiomshuvo&theme=tokyonight" height="160" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=axiomshuvo&theme=tokyonight" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=axiomshuvo&theme=tokyonight" width="100%" alt="Contribution Graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=axiomshuvo&theme=tokyo-night&hide_border=true&area=true&custom_title=Pradipta%27s%20Contribution%20Activity" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=axiomshuvo&theme=tokyo-night&hide_border=true&area=true&custom_title=Pradipta%27s%20Contribution%20Activity" width="100%" alt="Activity Graph" />
 </div>
 
 ---
@@ -118,7 +106,7 @@ I don't just build features — I build **experiences**. Pixel-level precision i
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=axiomshuvo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=axiomshuvo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -190,7 +178,7 @@ I don't just build features — I build **experiences**. Pixel-level precision i
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten
+## 🐍 Contributions, Consumed
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/axiomshuvo/axiomshuvo/output/snake.svg" alt="Snake animation" />
@@ -199,12 +187,10 @@ I don't just build features — I build **experiences**. Pixel-level precision i
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,30&height=120&section=footer&stroke=00D9FF&strokeWidth=1" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,30&height=140&section=footer&text=Let%27s%20build%20something%20great.&fontSize=24&fontColor=00D9FF&fontAlignY=55&stroke=00D9FF&strokeWidth=1&animation=twinkling" />
 </div>
 
 <div align="center">
-  <b>Let's build something the world will actually use. 🤝</b>
-  <br/><br/>
   <a href="https://axiomshuvo.pro.bd/">axiomshuvo.pro.bd</a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/pradiptasarkershuvo/">LinkedIn</a>
