@@ -129,7 +129,7 @@ I don't just build features — I build **experiences**. Pixel-level precision i
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/axiomshuvo/readora">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,30&height=60&text=📚%20readora&fontSize=20&fontColor=00D9FF" width="100%" />
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=65&text=📚%20readora&fontSize=20&fontColor=ffffff&fontAlignY=50" width="100%" />
       </a>
       <br/><sub>Modern reading &amp; content platform with clean UX</sub><br/><br/>
       <img src="https://img.shields.io/github/stars/axiomshuvo/readora?style=flat-square&color=00D9FF&logo=github&logoColor=white" />
@@ -139,7 +139,7 @@ I don't just build features — I build **experiences**. Pixel-level precision i
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/axiomshuvo/pulsewire">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,30&height=60&text=⚡%20pulsewire&fontSize=20&fontColor=00D9FF" width="100%" />
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=65&text=⚡%20pulsewire&fontSize=20&fontColor=ffffff&fontAlignY=50" width="100%" />
       </a>
       <br/><sub>Real-time communication app built for speed</sub><br/><br/>
       <img src="https://img.shields.io/github/stars/axiomshuvo/pulsewire?style=flat-square&color=00D9FF&logo=github&logoColor=white" />
@@ -148,7 +148,7 @@ I don't just build features — I build **experiences**. Pixel-level precision i
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/axiomshuvo/ScaleFlow">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,30&height=60&text=🤖%20ScaleFlow&fontSize=20&fontColor=00D9FF" width="100%" />
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=65&text=🤖%20ScaleFlow&fontSize=20&fontColor=ffffff&fontAlignY=50" width="100%" />
       </a>
       <br/><sub>AI-powered marketing automation &amp; growth workflows</sub><br/><br/>
       <img src="https://img.shields.io/github/stars/axiomshuvo/ScaleFlow?style=flat-square&color=00D9FF&logo=github&logoColor=white" />
@@ -159,7 +159,7 @@ I don't just build features — I build **experiences**. Pixel-level precision i
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/axiomshuvo/CartStack">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,30&height=60&text=🛒%20CartStack&fontSize=20&fontColor=00D9FF" width="100%" />
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=65&text=🛒%20CartStack&fontSize=20&fontColor=ffffff&fontAlignY=50" width="100%" />
       </a>
       <br/><sub>Digital tools marketplace with a dynamic cart system</sub><br/><br/>
       <img src="https://img.shields.io/github/stars/axiomshuvo/CartStack?style=flat-square&color=00D9FF&logo=github&logoColor=white" />
@@ -169,7 +169,7 @@ I don't just build features — I build **experiences**. Pixel-level precision i
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/axiomshuvo/brickstone">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,30&height=60&text=🧱%20brickstone&fontSize=20&fontColor=00D9FF" width="100%" />
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=65&text=🧱%20brickstone&fontSize=20&fontColor=ffffff&fontAlignY=50" width="100%" />
       </a>
       <br/><sub>TypeScript-powered full-stack web application</sub><br/><br/>
       <img src="https://img.shields.io/github/stars/axiomshuvo/brickstone?style=flat-square&color=00D9FF&logo=github&logoColor=white" />
@@ -178,7 +178,7 @@ I don't just build features — I build **experiences**. Pixel-level precision i
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/axiomshuvo/awesomelevel">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,30&height=60&text=🎮%20awesomelevel&fontSize=18&fontColor=00D9FF" width="100%" />
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=65&text=🎮%20awesomelevel&fontSize=18&fontColor=ffffff&fontAlignY=50" width="100%" />
       </a>
       <br/><sub>Currently in the works — stay tuned!</sub><br/><br/>
       <img src="https://img.shields.io/github/stars/axiomshuvo/awesomelevel?style=flat-square&color=00D9FF&logo=github&logoColor=white" />
