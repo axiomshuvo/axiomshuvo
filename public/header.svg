@@ -1,0 +1,56 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#060612"/>
+      <stop offset="50%" stop-color="#0e0028"/>
+      <stop offset="100%" stop-color="#00101f"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#00D9FF"/>
+      <stop offset="40%"  stop-color="#c084fc"/>
+      <stop offset="70%"  stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#00D9FF"/>
+    </linearGradient>
+    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#00D9FF" stop-opacity="0"/>
+      <stop offset="25%"  stop-color="#00D9FF"/>
+      <stop offset="75%"  stop-color="#7928CA"/>
+      <stop offset="100%" stop-color="#7928CA" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="bracketL" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%"   stop-color="#00D9FF"/>
+      <stop offset="100%" stop-color="#7928CA"/>
+    </linearGradient>
+    <linearGradient id="bracketR" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%"   stop-color="#7928CA"/>
+      <stop offset="100%" stop-color="#00D9FF"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="220" fill="url(#bg)"/>
+
+  <!-- Top-left bracket -->
+  <path d="M24 18 L68 18 L68 22 L28 22 L28 66 L24 66 Z" fill="url(#bracketL)" opacity="0.7"/>
+  <!-- Top-right bracket -->
+  <path d="M876 18 L832 18 L832 22 L872 22 L872 66 L876 66 Z" fill="url(#bracketR)" opacity="0.7"/>
+  <!-- Bottom-left bracket -->
+  <path d="M24 202 L68 202 L68 198 L28 198 L28 154 L24 154 Z" fill="url(#bracketR)" opacity="0.7"/>
+  <!-- Bottom-right bracket -->
+  <path d="M876 202 L832 202 L832 198 L872 198 L872 154 L876 154 Z" fill="url(#bracketL)" opacity="0.7"/>
+
+  <!-- Gradient name -->
+  <text
+    x="450" y="122"
+    text-anchor="middle"
+    font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+    font-size="68"
+    font-weight="800"
+    letter-spacing="3"
+    fill="url(#nameGrad)"
+  >Pradipta Sarker</text>
+
+  <!-- Accent line below name -->
+  <rect x="100" y="148" width="700" height="2" fill="url(#accentLine)" rx="1"/>
+  <rect x="200" y="153" width="500" height="1" fill="url(#accentLine)" rx="1" opacity="0.4"/>
+</svg>

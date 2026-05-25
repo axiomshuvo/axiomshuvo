@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,30&height=220&section=header&text=Pradipta%20Sarker&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=40&stroke=00D9FF&strokeWidth=1" />
+  <img src="public/header.svg" width="100%" alt="Pradipta Sarker" />
 </div>
 
 <div align="center">
