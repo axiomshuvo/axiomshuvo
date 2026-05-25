@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,30&height=220&section=header&text=Pradipta%20Sarker&fontSize=55&fontColor=00D9FF&animation=twinkling&fontAlignY=40&stroke=00D9FF&strokeWidth=1" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,30&height=220&section=header&text=Pradipta%20Sarker&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&stroke=ffffff&strokeWidth=1" width="100%" />
 </div>
 
 <div align="center">
