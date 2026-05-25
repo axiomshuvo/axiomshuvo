@@ -102,8 +102,8 @@ I'm a **Frontend-Focused MERN Stack Developer** from Dhaka, Bangladesh. I don't 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=axiomshuvo&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=axiomshuvo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800&hide=html,css" height="165" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=axiomshuvo&theme=tokyonight" height="165" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=axiomshuvo&theme=tokyonight" height="165" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -193,5 +193,5 @@ I'm a **Frontend-Focused MERN Stack Developer** from Dhaka, Bangladesh. I don't 
 <div align="center">
 i hope , i can head from you . Feel free to contact me anytime .
 Thanks
-Pradipta sarker -->
+Pradipta sarker
 </div>
