@@ -40,6 +40,8 @@
 │  location   :  Dhaka, Bangladesh  🇧🇩                   │
 │  stack      :  React · Next.js · Node.js · TypeScript   │
 │  website    :  axiomshuvo.pro.bd                        │
+│  experience :  5+ years                                 │
+│  available  :  Remote · Full-time · Freelance           │
 │  status     :  Open to Work ✅                          │
 └─────────────────────────────────────────────────────────┘
 ```
@@ -51,12 +53,42 @@ I don't just build features — I build **experiences**. Pixel-level precision i
 
 ---
 
+## 📋 $ git log --pretty=career
+
+```bash
+* 352e985  (2025)  Redesigning full-stack projects with Next.js App Router & Better Auth
+* a7f3c2e  (2024)  Freelancing MERN — shipped 10+ client products end-to-end
+* 8b2d1f9  (2023)  Went deep on TypeScript · shadcn/ui · API design patterns
+* 3e9c4a1  (2022)  Shipped first production React app · fell in love with UI
+* 1d7f8b3  (2021)  Backend awakening · Node.js · Express · MongoDB ecosystem
+* 9a4e2c7  (2020)  Wrote first line of JavaScript · never looked back
+```
+
+---
+
 ## ⚡ What I Ship
 
 ```diff
 + [01]  WEB APPS    →  Performant SPAs & full-stack apps · React · Next.js · Node.js
 + [02]  UI SYSTEMS  →  Design systems & component libraries · Tailwind · shadcn/ui · HeroUI
 + [03]  API & AUTH  →  Secure REST APIs · Better Auth · MongoDB & MySQL data layers
+```
+
+---
+
+## 🧠 Currently Exploring
+
+```yaml
+currently_learning:
+  frontend:
+    - Advanced animations with Framer Motion & GSAP
+    - Web Performance & Core Web Vitals optimization
+  devops:
+    - Docker & container workflows
+    - AWS fundamentals  (EC2 · S3 · Lambda)
+  testing:
+    - Vitest & React Testing Library
+    - Playwright end-to-end testing
 ```
 
 ---
@@ -80,6 +112,12 @@ I don't just build features — I build **experiences**. Pixel-level precision i
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,30&height=38&text=%20%20Tools+%26+DevOps%20%20&fontSize=14&fontColor=00D9FF&fontAlignY=55" width="190" />
 
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,linux&theme=dark&perline=8" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,30&height=38&text=%20%20Learning%20%20&fontSize=14&fontColor=00D9FF&fontAlignY=55" width="140" />
+
+<img src="https://skillicons.dev/icons?i=docker,aws,kubernetes,graphql&theme=dark&perline=8" />
 
 </div>
 
@@ -111,7 +149,20 @@ I don't just build features — I build **experiences**. Pixel-level precision i
 
 ---
 
-## 🚀 Featured Projects
+## � Fun Facts
+
+```diff
++ I've rewritten the same component "just one more time" at least 4 times
++ Dark mode is not a preference — it's a personality trait
++ I read Figma files the way others read novels
++ My git commit messages went from "fix" to actual poetry over 5 years
++ I debug best at 2 AM (this is a problem and I know it)
++ Every side project starts with "this'll be quick" — narrator: it was not
+```
+
+---
+
+## �🚀 Featured Projects
 
 <table>
   <tr>
@@ -180,7 +231,33 @@ I don't just build features — I build **experiences**. Pixel-level precision i
 
 ---
 
-## 🐍 Contributions, Consumed
+## � Open to Work
+
+```bash
+┌─────────────────────────────────────────────────────────┐
+│  axiomshuvo@github  ~/hire-me                           │
+├─────────────────────────────────────────────────────────┤
+│  status      :  Open to Work ✅                         │
+│  type        :  Full-time · Freelance · Contract        │
+│  role        :  Frontend · Full-stack · MERN            │
+│  timezone    :  UTC+6  (Dhaka, Bangladesh)              │
+│  remote      :  Yes, strongly preferred 🌍              │
+│  response    :  Usually within 24 hours                 │
+│  contact     :  axiomshuvo@gmail.com                    │
+└─────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+  <a href="mailto:axiomshuvo@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-axiomshuvo@gmail.com-00D9FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/pradiptasarkershuvo/"><img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://axiomshuvo.pro.bd/"><img src="https://img.shields.io/badge/View-Portfolio-7928CA?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</div>
+
+---
+
+## �🐍 Contributions, Consumed
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/axiomshuvo/axiomshuvo/output/snake.svg" alt="Snake animation" />
