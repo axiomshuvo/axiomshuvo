@@ -27,124 +27,18 @@
     </linearGradient>
   </defs>
 
-  <!-- Background -->
   <rect width="900" height="220" fill="url(#bg)"/>
 
-  <!-- Top-left bracket -->
-  <path d="M24 18 L68 18 L68 22 L28 22 L28 66 L24 66 Z" fill="url(#bracketL)" opacity="0.7"/>
-  <!-- Top-right bracket -->
-  <path d="M876 18 L832 18 L832 22 L872 22 L872 66 L876 66 Z" fill="url(#bracketR)" opacity="0.7"/>
-  <!-- Bottom-left bracket -->
-  <path d="M24 202 L68 202 L68 198 L28 198 L28 154 L24 154 Z" fill="url(#bracketR)" opacity="0.7"/>
-  <!-- Bottom-right bracket -->
-  <path d="M876 202 L832 202 L832 198 L872 198 L872 154 L876 154 Z" fill="url(#bracketL)" opacity="0.7"/>
-
-  <!-- Gradient name -->
-  <text
-    x="450" y="122"
-    text-anchor="middle"
-    font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
-    font-size="68"
-    font-weight="800"
-    letter-spacing="3"
-    fill="url(#nameGrad)"
-  >Pradipta Sarker</text>
-
-  <!-- Accent line below name -->
-  <rect x="100" y="148" width="700" height="2" fill="url(#accentLine)" rx="1"/>
-  <rect x="200" y="153" width="500" height="1" fill="url(#accentLine)" rx="1" opacity="0.4"/>
-</svg>
-  <defs>
-    <!-- Base dark background gradient -->
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%"   stop-color="#060612"/>
-      <stop offset="55%"  stop-color="#0e0028"/>
-      <stop offset="100%" stop-color="#00101f"/>
-    </linearGradient>
-    <!-- Venom wave fill -->
-    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#00D9FF" stop-opacity="0.08"/>
-      <stop offset="50%"  stop-color="#7928CA" stop-opacity="0.15"/>
-      <stop offset="100%" stop-color="#00D9FF" stop-opacity="0.06"/>
-    </linearGradient>
-    <!-- Glow blob gradients -->
-    <radialGradient id="glowL" cx="20%" cy="70%" r="40%">
-      <stop offset="0%"   stop-color="#00D9FF" stop-opacity="0.18"/>
-      <stop offset="100%" stop-color="#00D9FF" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="glowR" cx="80%" cy="35%" r="38%">
-      <stop offset="0%"   stop-color="#7928CA" stop-opacity="0.2"/>
-      <stop offset="100%" stop-color="#7928CA" stop-opacity="0"/>
-    </radialGradient>
-    <!-- Name gradient -->
-    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#00D9FF"/>
-      <stop offset="40%"  stop-color="#c084fc"/>
-      <stop offset="70%"  stop-color="#818cf8"/>
-      <stop offset="100%" stop-color="#00D9FF"/>
-    </linearGradient>
-    <!-- Accent line -->
-    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#00D9FF" stop-opacity="0"/>
-      <stop offset="25%"  stop-color="#00D9FF"/>
-      <stop offset="75%"  stop-color="#7928CA"/>
-      <stop offset="100%" stop-color="#7928CA" stop-opacity="0"/>
-    </linearGradient>
-    <!-- Bracket gradients -->
-    <linearGradient id="bracketL" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%"   stop-color="#00D9FF"/>
-      <stop offset="100%" stop-color="#7928CA"/>
-    </linearGradient>
-    <linearGradient id="bracketR" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%"   stop-color="#7928CA"/>
-      <stop offset="100%" stop-color="#00D9FF"/>
-    </linearGradient>
-  </defs>
-
-  <!-- Background -->
-  <rect width="900" height="220" fill="url(#bgGrad)"/>
-
-  <!-- Ambient glow blobs -->
-  <rect width="900" height="220" fill="url(#glowL)"/>
-  <rect width="900" height="220" fill="url(#glowR)"/>
-
-  <!-- Venom-style organic wave shapes -->
-  <!-- Large bottom wave -->
-  <path d="M0 170 C80 140, 160 200, 260 165 C360 130, 420 195, 520 160 C620 125, 700 185, 800 155 C860 138, 890 148, 900 145 L900 220 L0 220 Z"
-        fill="url(#waveGrad)" opacity="0.7"/>
-  <!-- Mid wave -->
-  <path d="M0 185 C60 165, 150 210, 240 182 C340 152, 400 208, 500 175 C600 142, 680 198, 780 170 C850 152, 880 162, 900 158 L900 220 L0 220 Z"
-        fill="#00D9FF" fill-opacity="0.04"/>
-  <!-- Top-left tendril -->
-  <path d="M0 0 C30 0, 80 10, 120 45 C160 80, 140 110, 170 130 C190 145, 210 135, 200 115 C190 95, 165 108, 150 88 C135 68, 155 38, 120 20 C100 10, 50 5, 0 0 Z"
-        fill="#7928CA" fill-opacity="0.12"/>
-  <!-- Top-right tendril -->
-  <path d="M900 0 C870 0, 820 12, 780 50 C740 88, 760 115, 730 132 C710 145, 690 135, 700 115 C710 95, 735 108, 750 88 C765 68, 745 38, 780 18 C800 8, 850 4, 900 0 Z"
-        fill="#00D9FF" fill-opacity="0.1"/>
-  <!-- Thin glowing wave stroke line -->
-  <path d="M0 162 C80 132, 160 192, 260 157 C360 122, 420 187, 520 152 C620 117, 700 177, 800 147 C860 130, 890 140, 900 137"
-        fill="none" stroke="#00D9FF" stroke-width="1" stroke-opacity="0.35"/>
-  <path d="M0 168 C70 148, 150 188, 250 163 C360 135, 430 175, 530 150 C630 125, 710 168, 810 145 C865 133, 890 140, 900 138"
-        fill="none" stroke="#7928CA" stroke-width="0.8" stroke-opacity="0.25"/>
-
-  <!-- Corner brackets -->
   <path d="M24 18 L68 18 L68 22 L28 22 L28 66 L24 66 Z" fill="url(#bracketL)" opacity="0.7"/>
   <path d="M876 18 L832 18 L832 22 L872 22 L872 66 L876 66 Z" fill="url(#bracketR)" opacity="0.7"/>
   <path d="M24 202 L68 202 L68 198 L28 198 L28 154 L24 154 Z" fill="url(#bracketR)" opacity="0.7"/>
   <path d="M876 202 L832 202 L832 198 L872 198 L872 154 L876 154 Z" fill="url(#bracketL)" opacity="0.7"/>
 
-  <!-- Gradient name text -->
-  <text
-    x="450" y="122"
-    text-anchor="middle"
+  <text x="450" y="122" text-anchor="middle"
     font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
-    font-size="68"
-    font-weight="800"
-    letter-spacing="3"
-    fill="url(#nameGrad)"
-  >Pradipta Sarker</text>
+    font-size="68" font-weight="800" letter-spacing="3"
+    fill="url(#nameGrad)">Pradipta Sarker</text>
 
-  <!-- Accent lines below name -->
   <rect x="100" y="148" width="700" height="2" fill="url(#accentLine)" rx="1"/>
   <rect x="200" y="153" width="500" height="1" fill="url(#accentLine)" rx="1" opacity="0.4"/>
 </svg>
