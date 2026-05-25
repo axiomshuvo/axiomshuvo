@@ -115,9 +115,9 @@ I don't just build features — I build **experiences**. Pixel-level precision i
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <a href="https://github.com/axiomshuvo/readora">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=65&text=📚%20readora&fontSize=20&fontColor=ffffff&fontAlignY=50" width="100%" />
+        <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=90&text=📚%20readora&fontSize=30&fontColor=ffffff&animation=twinkling&stroke=00D9FF&strokeWidth=2&fontAlignY=50" width="100%" />
       </a>
       <br/><sub>Modern reading &amp; content platform with clean UX</sub><br/><br/>
       <img src="https://img.shields.io/github/stars/axiomshuvo/readora?style=flat-square&color=00D9FF&logo=github&logoColor=white" />
@@ -125,29 +125,29 @@ I don't just build features — I build **experiences**. Pixel-level precision i
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <a href="https://github.com/axiomshuvo/pulsewire">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=65&text=⚡%20pulsewire&fontSize=20&fontColor=ffffff&fontAlignY=50" width="100%" />
+        <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=90&text=⚡%20pulsewire&fontSize=30&fontColor=ffffff&animation=twinkling&stroke=00D9FF&strokeWidth=2&fontAlignY=50" width="100%" />
       </a>
       <br/><sub>Real-time communication app built for speed</sub><br/><br/>
       <img src="https://img.shields.io/github/stars/axiomshuvo/pulsewire?style=flat-square&color=00D9FF&logo=github&logoColor=white" />
       <img src="https://img.shields.io/github/forks/axiomshuvo/pulsewire?style=flat-square&color=7928CA&logo=git&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
     </td>
-    <td align="center" width="33%">
+  </tr>
+  <tr>
+    <td align="center" width="50%">
       <a href="https://github.com/axiomshuvo/ScaleFlow">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=65&text=🤖%20ScaleFlow&fontSize=20&fontColor=ffffff&fontAlignY=50" width="100%" />
+        <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=90&text=🤖%20ScaleFlow&fontSize=30&fontColor=ffffff&animation=twinkling&stroke=00D9FF&strokeWidth=2&fontAlignY=50" width="100%" />
       </a>
       <br/><sub>AI-powered marketing automation &amp; growth workflows</sub><br/><br/>
       <img src="https://img.shields.io/github/stars/axiomshuvo/ScaleFlow?style=flat-square&color=00D9FF&logo=github&logoColor=white" />
       <img src="https://img.shields.io/github/forks/axiomshuvo/ScaleFlow?style=flat-square&color=7928CA&logo=git&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <a href="https://github.com/axiomshuvo/CartStack">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=65&text=🛒%20CartStack&fontSize=20&fontColor=ffffff&fontAlignY=50" width="100%" />
+        <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=90&text=🛒%20CartStack&fontSize=30&fontColor=ffffff&animation=twinkling&stroke=00D9FF&strokeWidth=2&fontAlignY=50" width="100%" />
       </a>
       <br/><sub>Digital tools marketplace with a dynamic cart system</sub><br/><br/>
       <img src="https://img.shields.io/github/stars/axiomshuvo/CartStack?style=flat-square&color=00D9FF&logo=github&logoColor=white" />
@@ -155,18 +155,20 @@ I don't just build features — I build **experiences**. Pixel-level precision i
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
     </td>
-    <td align="center" width="33%">
+  </tr>
+  <tr>
+    <td align="center" width="50%">
       <a href="https://github.com/axiomshuvo/brickstone">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=65&text=🧱%20brickstone&fontSize=20&fontColor=ffffff&fontAlignY=50" width="100%" />
+        <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=90&text=🧱%20brickstone&fontSize=30&fontColor=ffffff&animation=twinkling&stroke=00D9FF&strokeWidth=2&fontAlignY=50" width="100%" />
       </a>
       <br/><sub>TypeScript-powered full-stack web application</sub><br/><br/>
       <img src="https://img.shields.io/github/stars/axiomshuvo/brickstone?style=flat-square&color=00D9FF&logo=github&logoColor=white" />
       <img src="https://img.shields.io/github/forks/axiomshuvo/brickstone?style=flat-square&color=7928CA&logo=git&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <a href="https://github.com/axiomshuvo/awesomelevel">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=65&text=🎮%20awesomelevel&fontSize=18&fontColor=ffffff&fontAlignY=50" width="100%" />
+        <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=90&text=🎮%20awesomelevel&fontSize=30&fontColor=ffffff&animation=twinkling&stroke=00D9FF&strokeWidth=2&fontAlignY=50" width="100%" />
       </a>
       <br/><sub>Currently in the works — stay tuned!</sub><br/><br/>
       <img src="https://img.shields.io/github/stars/axiomshuvo/awesomelevel?style=flat-square&color=00D9FF&logo=github&logoColor=white" />
