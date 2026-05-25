@@ -5,11 +5,14 @@
       <stop offset="50%" stop-color="#0e0028"/>
       <stop offset="100%" stop-color="#00101f"/>
     </linearGradient>
-    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
       <stop offset="0%"   stop-color="#00D9FF"/>
-      <stop offset="40%"  stop-color="#c084fc"/>
-      <stop offset="70%"  stop-color="#818cf8"/>
+      <stop offset="33%"  stop-color="#c084fc"/>
+      <stop offset="66%"  stop-color="#818cf8"/>
       <stop offset="100%" stop-color="#00D9FF"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+        values="-900 0; 900 0; -900 0"
+        dur="4s" repeatCount="indefinite"/>
     </linearGradient>
     <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%"   stop-color="#00D9FF" stop-opacity="0"/>
