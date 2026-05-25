@@ -45,7 +45,7 @@
 ```
 
 > Give me a **Figma file and a problem to solve** — I'll ship production-ready code  
-> that's fast, accessible, and that users actually *enjoy* using.
+> that's fast, accessible, and that users actually _enjoy_ using.
 
 I don't just build features — I build **experiences**. Pixel-level precision in the UI, clean logic on the backend, and the obsession to tie it all together.
 
@@ -125,32 +125,64 @@ I don't just build features — I build **experiences**. Pixel-level precision i
 
 ## 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/axiomshuvo/readora">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=axiomshuvo&repo=readora&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/axiomshuvo/pulsewire">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=axiomshuvo&repo=pulsewire&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/axiomshuvo/ScaleFlow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=axiomshuvo&repo=ScaleFlow&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/axiomshuvo/CartStack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=axiomshuvo&repo=CartStack&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/axiomshuvo/brickstone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=axiomshuvo&repo=brickstone&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/axiomshuvo/awesomelevel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=axiomshuvo&repo=awesomelevel&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/axiomshuvo/readora">📚 readora</a></h3>
+      <p>A modern reading &amp; content platform with clean UX</p>
+      <img src="https://img.shields.io/github/stars/axiomshuvo/readora?style=flat-square&color=00D9FF&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/github/forks/axiomshuvo/readora?style=flat-square&color=7928CA&logo=git&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/axiomshuvo/pulsewire">⚡ pulsewire</a></h3>
+      <p>Real-time communication app built for speed</p>
+      <img src="https://img.shields.io/github/stars/axiomshuvo/pulsewire?style=flat-square&color=00D9FF&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/github/forks/axiomshuvo/pulsewire?style=flat-square&color=7928CA&logo=git&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/axiomshuvo/ScaleFlow">🤖 ScaleFlow</a></h3>
+      <p>AI-powered marketing automation &amp; growth workflows</p>
+      <img src="https://img.shields.io/github/stars/axiomshuvo/ScaleFlow?style=flat-square&color=00D9FF&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/github/forks/axiomshuvo/ScaleFlow?style=flat-square&color=7928CA&logo=git&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/axiomshuvo/CartStack">🛒 CartStack</a></h3>
+      <p>Digital tools marketplace with a dynamic cart system</p>
+      <img src="https://img.shields.io/github/stars/axiomshuvo/CartStack?style=flat-square&color=00D9FF&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/github/forks/axiomshuvo/CartStack?style=flat-square&color=7928CA&logo=git&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/axiomshuvo/brickstone">🧱 brickstone</a></h3>
+      <p>TypeScript-powered full-stack web application</p>
+      <img src="https://img.shields.io/github/stars/axiomshuvo/brickstone?style=flat-square&color=00D9FF&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/github/forks/axiomshuvo/brickstone?style=flat-square&color=7928CA&logo=git&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/axiomshuvo/awesomelevel">🎮 awesomelevel</a></h3>
+      <p>Currently in the works — stay tuned!</p>
+      <img src="https://img.shields.io/github/stars/axiomshuvo/awesomelevel?style=flat-square&color=00D9FF&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/github/forks/axiomshuvo/awesomelevel?style=flat-square&color=7928CA&logo=git&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
