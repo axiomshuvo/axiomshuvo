@@ -62,3 +62,4 @@ Desktop.ini
 # ─── Misc ────────────────────────────────────────────────
 *.local
 .gitignore
+.vscode/
